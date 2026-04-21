@@ -1,4 +1,4 @@
-
+  
 <h1 align="center">
 Hi 👋, I'm Sumit 
 </h1>
@@ -111,7 +111,7 @@ I am passionate about analyzing data, building dashboards, and solving real-worl
 ---
 
 ## 🎯 Career Objective
-To work as a **Data Analyst / Business Analyst** where I can use **Python, SQL, Power BI, and Excel** to transform data into meaningful insights and support business decisions.
+To work as a **Data Analyst / Business Analyst** where I can use **Python, SQL, Power BI, and Excel** to transform data into meaningful insights and support business decisions..
 
 ---
 
